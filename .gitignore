@@ -1,0 +1,7 @@
+*.xlsm
+*.xlsx
+*.step
+
+/Videos
+/CAD
+/Photos
