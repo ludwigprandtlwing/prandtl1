@@ -1,7 +1,11 @@
 *.xlsm
 *.xlsx
 *.step
+*.m4a
+*.xlsx*
 
+/.ipynb_checkpoints
 /Videos
 /CAD
 /Photos
+
